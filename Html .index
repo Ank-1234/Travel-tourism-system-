@@ -1,0 +1,146 @@
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="card">
+                        <img class="card-img-top" src="images/1.jpg" alt="Card image">
+                        <div class="card-body">
+                            <h4 class="card-title">London(Europe)</h4>
+                            <p class="card-text">Europe is a continent located entirely in the Northern Hemisphere and
+                                mostly in the Eastern Hemisphere. It has lots of tourists attraction with full
+                                bloom.Book your tour for fantastic holidays now.Travel London for one of the best
+                                expierience in your life.
+
+                                <br><br>Starting From:<br>
+                                Rs.200,000<br><br>
+
+                                7 Days, 6 Nights
+                            </p>
+                            <a href="enquiry.html" class="btn btn-primary">Book Package</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="card">
+                        <img class="card-img-top" src="images/79.jpg" alt="Card image">
+                        <div class="card-body">
+                            <h4 class="card-title">Agra(India)</h4>
+                            <p class="card-text">Welcome to a soulful experience of vacationing in India, the cradle of
+                                ancient civilization with rich cultural heritage.<br> Experience the sights and sounds
+                                of
+                                its amazing diversity that is embedded in its geography, people and their
+                                cultures.<br>
+                                <br>
+
+                                Starting From:<br>
+                                Rs.85,000<br><br><br>
+
+                                6 Days, 5 Nights
+                            </p>
+                            <a href="enquiry.html" class="btn btn-primary">Book Package</a>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="card">
+                        <img class="card-img-top" src="images/6.jpg" alt="Card image">
+                        <div class="card-body">
+                            <h4 class="card-title">Sydney(Austrailia)</h4>
+                            <p class="card-text">Austrailia is one of the best cities for tourism and the most
+                                attractive spot in Austrailia.Australia is a country for all seasons.<br><br>
+                                Starting From:<br>
+                                Rs.300,000<br><br>
+
+                                6 Days, 5 Nights<br><br>
+                            </p>
+                            <a href="enquiry.html" class="btn btn-primary">Book Package</a><br><br>
+                        </div>
+                    </div>
+    </section>
+    <hr>
+
+
+
+
+
+
+    <section class="my-5">
+        <div id="Gallery" class="py-5">
+            <h2 class="text-center"> Our Gallery</h2>
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-12">
+                    <img src="images/aust.jpg" class="img-fluid pb-3">
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                    <img src="images/6.jpg" class="img-fluid pb-3">
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                    <img src="images/shimla.jpg" class="img-fluid pb-3">
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                    <img src="images/3.jpg" class="img-fluid pb-3">
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                    <img src="images/london.jpg" class="img-fluid pb-3">
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                    <img src="images/56.jpg" class="img-fluid pb-3">
+                </div>
+            </div>
+        </div>
+    </section>
+    <hr>
+
+
+
+
+
+
+    <section class="my-5">
+        <div id="ContactUs" class="py-5">
+            <h2 class="text-center">Contact Us</h2>
+        </div>
+
+        <div class="w-50 m-auto">
+            <form action="userinfo.php" method="post">
+                <div class="form-group">
+                    <label>Username</label>
+                    <input type="text" name="user" autocomplete="off" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label>Email Id</label>
+                    <input type="text" name="email" autocomplete="off" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label>Mobile No</label>
+                    <input type="text" name="mobile" autocomplete="off" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label>Message</label>
+                    <textarea class="form-control" name="message">
+                      </textarea>
+                </div>
+                <button type="submit" class="btn btn-success">Submit</button>
+
+            </form>
+        </div>
+    </section>
+
+
+
+
+    <footer>
+        <h2 class="p-3 bg-dark text-white text-center">@Travel Masti</h2>
+    </footer>
+
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>
