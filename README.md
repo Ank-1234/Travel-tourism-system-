@@ -1,4 +1,4 @@
-Web Technologies used: HTML, CSS, JS, Bootstrap
+Web Technologies used: HTML, CSS
 
 IDE: VS-Code
 
